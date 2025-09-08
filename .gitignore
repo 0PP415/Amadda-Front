@@ -36,5 +36,5 @@ yarn-error.*
 # typescript
 *.tsbuildinfo
 
-#API-BASEURL
+#API_BASE_URL
 .env
